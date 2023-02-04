@@ -20,7 +20,6 @@
 - 📫 Contatos
   - E-mail: thcalomino@usp.br
   - Linkedin: [Thiago da Rocha Calomino Gonçalves](https://www.linkedin.com/in/thiago-da-rocha-calomino-gon%C3%A7alves-2b64b0173/)
-  - Instagram: @thiagoclmn
 - 😄 Pronomes: ele/dele
 
 ---
@@ -40,7 +39,6 @@
 
 ### Redes Sociais
 <div>
-    <a href="https://instagram.com/thiagoclmn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:thcalomino@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/thiago-da-rocha-calomino-gon%C3%A7alves-2b64b0173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
