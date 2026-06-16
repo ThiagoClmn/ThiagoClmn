@@ -15,7 +15,7 @@
 >* Origem: Rio de Janeiro, RJ :palm_tree:
 
 ### Status
-- 🔭 Na faculdade e procurando por um estágio
+- 🔭 No final da graduação
 - 🌱 Estudando ReactJS
 - 📫 Contatos
   - E-mail: thcalomino@usp.br
